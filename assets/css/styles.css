@@ -1,4 +1,4 @@
-.row > * {
+[class^="col"] {
     padding: 16px;
     font-size: 2rem;
     border: 1px dashed orange;

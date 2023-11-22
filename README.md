@@ -31,4 +31,3 @@ This project is licensed under the [MIT License](LICENSE).
 -   [F8 - Học Lập Trình Để Đi Làm](https://fullstack.edu.vn)
 
 Happy learning and enjoy exploring the world of CSS grid systems!
-# css-grid-system

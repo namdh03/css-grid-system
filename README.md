@@ -21,10 +21,6 @@ To get started with this project, you can refer to the official documentation of
 
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please feel free to submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Resources
 
 -   [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/layout)

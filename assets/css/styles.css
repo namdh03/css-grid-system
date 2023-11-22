@@ -1,5 +1,14 @@
-.item {
-    padding: 16px;
-    font-size: 2rem;
-    border: 1px dashed orange;
+.inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    min-height: 100px;
+    margin-bottom: 30px;
+
+    background: #ccc;
+
+    font-size: 30px;
+    font-weight: 600;
 }

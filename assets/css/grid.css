@@ -6,7 +6,11 @@
 }
 
 .container-fluid,
-.container-sm {
+.container-sm,
+.container-md,
+.container-lg,
+.container-xl,
+.container-xxl {
     width: 100%;
 }
 
